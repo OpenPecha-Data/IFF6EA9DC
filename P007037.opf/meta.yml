@@ -1,82 +1,94 @@
-id: opecha:P007037
+id: P007037
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD159451
   title: དུས་རབས ༢༡་པའི་བོད་ལུགས་གསོ་རིག་དངོས་ཚན་སློབ་གསོའི་འཆར་འགོད་སློབ་དེབ། ནད་ཐོག་གི་སྐོར།（བཅོས་སྒྲིག་མ།）
-  volume:
+  author: ''
+  volumes:
     fceba75748d54e748a9d7f1f0f17b59f:
       image_group_id: I4PD4562
       title: Volume 1 of dus rabs 21 pa'i bod lugs gso rig dngos tshan slob gso'i
         'char 'god slob deb/ nad thog gi skor/（bcos sgrig ma/）
       volume_number: 1
       total_pages: 216
+      base_file: v001.txt
     300c2271d9574479b2aba0ee805535ed:
       image_group_id: I4PD4563
       title: Volume 2 of dus rabs 21 pa'i bod lugs gso rig dngos tshan slob gso'i
         'char 'god slob deb/ nad thog gi skor/（bcos sgrig ma/）
       volume_number: 2
       total_pages: 150
+      base_file: v002.txt
     383b59f8aa514f1a8d0ceb1bcd6b66fa:
       image_group_id: I4PD4564
       title: Volume 3 of dus rabs 21 pa'i bod lugs gso rig dngos tshan slob gso'i
         'char 'god slob deb/ nad thog gi skor/（bcos sgrig ma/）
       volume_number: 3
       total_pages: 238
+      base_file: v003.txt
     a381cb058537455e9dbf09a3bcab70f0:
       image_group_id: I4PD4565
       title: Volume 4 of dus rabs 21 pa'i bod lugs gso rig dngos tshan slob gso'i
         'char 'god slob deb/ nad thog gi skor/（bcos sgrig ma/）
       volume_number: 4
       total_pages: 212
+      base_file: v004.txt
     2d40b96d05424b938a9e9d3a92254256:
       image_group_id: I4PD4566
       title: Volume 5 of dus rabs 21 pa'i bod lugs gso rig dngos tshan slob gso'i
         'char 'god slob deb/ nad thog gi skor/（bcos sgrig ma/）
       volume_number: 5
       total_pages: 204
+      base_file: v005.txt
     792681653cca4d3e8921178fa37ee0db:
       image_group_id: I4PD4567
       title: Volume 6 of dus rabs 21 pa'i bod lugs gso rig dngos tshan slob gso'i
         'char 'god slob deb/ nad thog gi skor/（bcos sgrig ma/）
       volume_number: 6
       total_pages: 488
+      base_file: v006.txt
     adf23af3f0dd4210b5edef8288da16dc:
       image_group_id: I4PD4568
       title: Volume 7 of dus rabs 21 pa'i bod lugs gso rig dngos tshan slob gso'i
         'char 'god slob deb/ nad thog gi skor/（bcos sgrig ma/）
       volume_number: 7
       total_pages: 302
+      base_file: v007.txt
     a02e4f5f5fb74b0a912d2653ff3c7a2d:
       image_group_id: I4PD4569
       title: Volume 8 of dus rabs 21 pa'i bod lugs gso rig dngos tshan slob gso'i
         'char 'god slob deb/ nad thog gi skor/（bcos sgrig ma/）
       volume_number: 8
       total_pages: 220
+      base_file: v008.txt
     2e6e39c2f7484777ade4378a4ba32cb1:
       image_group_id: I4PD4570
       title: Volume 9 of dus rabs 21 pa'i bod lugs gso rig dngos tshan slob gso'i
         'char 'god slob deb/ nad thog gi skor/（bcos sgrig ma/）
       volume_number: 9
       total_pages: 184
+      base_file: v009.txt
     613e6be151554712966291471ee8d4e3:
       image_group_id: I4PD4571
       title: Volume 10 of dus rabs 21 pa'i bod lugs gso rig dngos tshan slob gso'i
         'char 'god slob deb/ nad thog gi skor/（bcos sgrig ma/）
       volume_number: 10
       total_pages: 180
+      base_file: v010.txt
     bd281172ff784500b77742cc2de53139:
       image_group_id: I4PD4572
       title: Volume 11 of dus rabs 21 pa'i bod lugs gso rig dngos tshan slob gso'i
         'char 'god slob deb/ nad thog gi skor/（bcos sgrig ma/）
       volume_number: 11
       total_pages: 170
+      base_file: v011.txt
     8427e275801c4e5e9574f737e6c5ec48:
       image_group_id: I4PD4573
       title: Volume 12 of dus rabs 21 pa'i bod lugs gso rig dngos tshan slob gso'i
         'char 'god slob deb/ nad thog gi skor/（bcos sgrig ma/）
       volume_number: 12
       total_pages: 434
-  author: ''
+      base_file: v012.txt
 ebook_metadata:
   title: དུས་རབས ༢༡་པའི་བོད་ལུགས་གསོ་རིག་དངོས་ཚན་སློབ་གསོའི་འཆར་འགོད་སློབ་དེབ། ནད་ཐོག་གི་སྐོར།（བཅོས་སྒྲིག་མ།）
   author: ''
